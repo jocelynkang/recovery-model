@@ -1,0 +1,9 @@
+,DS0_Mean,DS0_Dispersion,DS1_Mean,DS1_Dispersion,DS2_Mean,DS2_Dispersion,DS3_Mean,DS3_Dispersion,DS4_Mean,DS4_Dispersion
+Inspection_Single,0,0,30,0.4,30,0.4,30,0.4,30,0.4
+Finance_Single,0,0,90,1,80,1,80,1,80,1
+Permit_Single,0,0,150,1,140,1,140,1,300,1
+Repair_Single,0,0,200,1,290,1,410,1,730,1
+Inspection_Multi,0,0,30,0.4,30,0.4,30,0.4,30,0.4
+Finance_Multi,0,0,70,1,60,1,60,1,60,1
+Permit_Multi,0,0,100,1,100,1,100,1,220,1
+Repair_Multi,0,0,140,1,200,1,290,1,530,1
